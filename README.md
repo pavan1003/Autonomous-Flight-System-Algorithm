@@ -1,0 +1,1 @@
+This repository contains the code for an Autonomous Flight System Algorithm. It is a control algorithm that enables unmanned aerial vehicles (UAVs) to fly autonomously and make decisions based on input data. The goal of this project is to develop a reliable and efficient system that can handle different flight scenarios, and improve the safety and stability of UAV flights.
